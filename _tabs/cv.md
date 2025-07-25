@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: CV
-icon: fas fa-info-circle
+icon: fas fa-file-contract
 order: 2
 ---
 (A rather simplified version, last updated in July 2025)
@@ -60,3 +60,11 @@ Jan. 2023 — Jun. 2023 \\
 **Tools**: Praat, ELAN 
 
 ### Course Projects and Writings 
+- Rotating the Rotated Text \| *Miniature Language Studies*
+- Pragmatics in Verbal Theory of Mind Assessments \| *LIGN 279: Topics in Child Language Acquisition*
+- Phonological Priming Effect in Chinese Homophones \| *LIGN 172: Psycholinguistics Lab Projects*
+- Autism and Neurodiversity in China \| *ANSC 164: Medical Anthropology*
+- Feeding and Bleeding in Optimality Theory \| *LIGN 115: Phonology II*
+- Phonetics of Tamil \| *LIGN 110: Phonetics*
+- Person and Locative Markings in Sign Languages \| *Analysing Sign Languages*
+- "I Have Autism": Uses and Misuses of Autism as Internet Slang in China \| *Pioneer Academics*
