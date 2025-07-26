@@ -24,8 +24,8 @@ description:  # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://yagexin.com"
 
-#github:
-#  username: yagregx # change to your GitHub username
+github:
+  username: yagregx # change to your GitHub username
 
 #twitter:
 #  username:  yagraex # change to your Twitter username
@@ -37,9 +37,9 @@ social:
   email: yagegxin[at]gmail[dot]com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.bsky-social.com/profile/sannaago
-    #- https://twitter.com/yagraex # change to your Twitter homepage
-    - https://github.com/yagregx # change to your GitHub homepage
+    #- https://www.bsky-social.com/profile/
+    #- https://twitter.com/ # change to your Twitter homepage
+    #- https://github.com/ # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
