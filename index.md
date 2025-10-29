@@ -9,7 +9,3 @@ My [research interests](/research/) mostly involve how people use language (to t
 
 Outside of academics, I am passionate about music and [art](https://www.instagram.com/mobigreus/), as well as reading and writing. There are a bunch of topics that I particularly care about, including disability rights, theology & philosophy, and anthropology. 
 
-#### Where am I & What I'm up to: 
-
-- August 2025 till now: Back to San Diego working on research and vacationing and soon school :)
-- July 2025: Excited to be at the LSA 2025 Institute at U of Oregon, with the support from the Warren Cowgill Fellowship! 
