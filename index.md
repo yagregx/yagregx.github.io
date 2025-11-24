@@ -9,3 +9,4 @@ My [research interests](/research/) mostly involve how people use language (to t
 
 Outside of academics, I am passionate about music and [art](https://www.instagram.com/mobigreus/), as well as reading and writing. There are a bunch of topics that I particularly care about, including disability rights, theology & philosophy, and anthropology. 
 
+![img-description](assets/IMG_2296.JPG){: width="270" height="130" }

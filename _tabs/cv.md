@@ -15,7 +15,7 @@ Aug. 2022 — Expected Jun. 2026
 - B.S. in Cognitive Science (Spec. Machine Learning and Neural Computation)
 - B.A. in Linguistics (Spec. Speech and Language Sciences)
 - Minor in Music 
-- *Thesis*: *Choice of Referential Expressions in Autistic Adults*
+- *Thesis*: *Partner Effects on Referential Expression Production in Autistic Adults*
   - Advisor: Rachel Dudley 
 
 ### Fellowships, Awards, and Honors 
