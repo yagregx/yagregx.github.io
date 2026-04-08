@@ -1,0 +1,29 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Heading font */
+$heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif !default;
+
+/* Light mode colors */
+$text-page-title: #111111 !default;  // page titles
+$text-primary: #111111 !default;     // main headings/text
+
+/* Dark mode colors */
+$text-page-title-dark: #eeeeee !default; // page titles in dark mode
+$text-primary-dark: #eeeeee !default;    // main headings/text in dark mode
+
+.post-title,
+.page-title,
+.dynamic-title {
+  font-family: 'Impact', system-ui, sans-serif;
+  font-weight: 900;
+}

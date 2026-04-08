@@ -11,12 +11,13 @@ order: 2
 **University of California San Diego**, *La Jolla, CA* 
 
 Aug. 2022 — Expected Jun. 2026
-- Current GPA: 3.951/4.000 
+- Current GPA: 3.95/4.00 
 - B.S. in Cognitive Science (Spec. Machine Learning and Neural Computation)
 - B.A. in Linguistics (Spec. Speech and Language Sciences)
 - Minor in Music 
 - *Thesis*: *Partner Effects on Referential Expression Production in Autistic Adults*
   - Advisor: Rachel Dudley 
+  - Meaning and Language Development Lab, UCSD Linguistics 
 
 ### Fellowships, Awards, and Honors 
 - Summer Undergraduate Research Scholarship for Arts, Humanities, and Social Sciences, UCSD (2025), $6,500 (*Declined offer*)
