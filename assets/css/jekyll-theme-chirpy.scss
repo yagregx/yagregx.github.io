@@ -9,175 +9,87 @@
 ';
 
 /* ======================================= */
-/* 🎨 PINK THEME VARIABLES                 */
-/* ======================================= */
-
-
-/* 🌸 Light mode */
-$main-bg: #fff7fb !default;
-$text-color: #2a2a2a !default;
-$link-color: #e75480 !default;
-$link-hover-color: #c7436e !default;
-
-$sidebar-bg: #fdeaf3 !default;
-$card-bg: #ffffff !default;
-$border-color: #f3d6e4 !default;
-
-/* 🌙 Dark mode */
-$main-bg-dark: #0f1f1d !default;
-$text-color-dark: #d1fae5 !default;
-$link-color-dark: #2dd4bf !default;
-$link-hover-color-dark: #5eead4 !default;
-
-$sidebar-bg-dark: #1b2f2c !default;
-$card-bg-dark: #1b2f2c !default;
-$border-color-dark: #2c4440 !default;
-
-/* ======================================= */
-/* 🔤 TYPOGRAPHY                           */
-/* ======================================= */
-
-/* Heading font */
-$heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif !default;
-
-/* Light mode text */
-$text-page-title: #111111 !default;
-$text-primary: #111111 !default;
-
-/* Dark mode text */
-$text-page-title-dark: #eeeeee !default;
-$text-primary-dark: #eeeeee !default;
-
-/* Heavy headings */
-.post-title,
-.page-title,
-.dynamic-title,
-.site-title.d-block {
-  font-family: 'Arial Black', system-ui, sans-serif;
-  font-weight: 900;
-}
-
-/* ======================================= */
-/* 🧱 LAYOUT / UI COLORS                   */
+/* 🌸 LIGHT MODE (PINK THEME ONLY)         */
 /* ======================================= */
 
 /* Body */
-body {
-  background-color: $main-bg;
-  color: $text-color;
-}
-
-html[data-mode="dark"] body {
-  background-color: $main-bg-dark;
-  color: $text-color-dark;
+html[data-mode="light"] body {
+  background-color: #fff7fb;
+  color: #2a2a2a;
 }
 
 /* Sidebar */
-#sidebar {
-  background-color: $sidebar-bg;
-}
-
-html[data-mode="dark"] #sidebar {
-  background-color: $sidebar-bg-dark;
+html[data-mode="light"] #sidebar {
+  background-color: #fdeaf3;
 }
 
 /* Cards / panels */
-.card {
-  background-color: $card-bg;
-  border-color: $border-color;
-}
-
-html[data-mode="dark"] .card {
-  background-color: $card-bg-dark;
-  border-color: $border-color-dark;
+html[data-mode="light"] .card {
+  background-color: #ffffff;
+  border-color: #f3d6e4;
 }
 
 /* ======================================= */
 /* 🔗 LINKS                                */
 /* ======================================= */
 
-a {
-  color: $link-color;
+html[data-mode="light"] a {
+  color: #e75480;
 }
 
-a:hover {
-  color: $link-hover-color;
+html[data-mode="light"] a:hover {
+  color: #c7436e;
 }
-
-html[data-mode="dark"] a {
-  color: $link-color-dark;
-}
-
-html[data-mode="dark"] a:hover {
-  color: $link-hover-color-dark;
-}
-
-/* ======================================= */
-/* 🌸 EXTRA POLISH                         */
-/* ======================================= */
-
-/* Text selection */
-::selection {
-  background: #f8cfe0;
-}
-
-html[data-mode="dark"] ::selection {
-  background: #5a2d44;
-}
-
 
 /* ======================================= */
 /* 🔝 TOP BAR                              */
 /* ======================================= */
 
-.topbar {
-  background-color: $main-bg;
-  border-bottom: 1px solid $border-color;
+html[data-mode="light"] .topbar {
+  background-color: #fff7fb;
+  border-bottom: 1px solid #f3d6e4;
 }
 
-html[data-mode="dark"] .topbar {
-  background-color: $main-bg-dark;
-  border-bottom: 1px solid $border-color-dark;
-}
-
-/* Title inside top bar */
-.topbar .site-title {
-  color: $text-color;
-}
-
-html[data-mode="dark"] .topbar .site-title {
-  color: $text-color-dark;
+html[data-mode="light"] .topbar .site-title {
+  color: #2a2a2a;
 }
 
 /* ======================================= */
 /* 🔻 FOOTER                               */
 /* ======================================= */
 
-footer {
-  background-color: $main-bg;
-  border-top: 1px solid $border-color;
-  color: $text-color;
+html[data-mode="light"] footer {
+  background-color: #fff7fb;
+  border-top: 1px solid #f3d6e4;
+  color: #2a2a2a;
 }
 
-html[data-mode="dark"] footer {
-  background-color: $main-bg-dark;
-  border-top: 1px solid $border-color-dark;
-  color: $text-color-dark;
+html[data-mode="light"] footer a {
+  color: #e75480;
 }
 
-/* Footer links */
-footer a {
-  color: $link-color;
+html[data-mode="light"] footer a:hover {
+  color: #c7436e;
 }
 
-footer a:hover {
-  color: $link-hover-color;
+/* ======================================= */
+/* 🌸 EXTRA POLISH                         */
+/* ======================================= */
+
+/* Selection */
+html[data-mode="light"] ::selection {
+  background: #f8cfe0;
 }
 
-html[data-mode="dark"] footer a {
-  color: $link-color-dark;
-}
+/* ======================================= */
+/* 🔤 TYPOGRAPHY                           */
+/* ======================================= */
 
-html[data-mode="dark"] footer a:hover {
-  color: $link-hover-color-dark;
+/* Keep your bold headings */
+.post-title,
+.page-title,
+.dynamic-title,
+.site-title.d-block {
+  font-family: 'Impact', system-ui, sans-serif;
+  font-weight: 900;
 }
