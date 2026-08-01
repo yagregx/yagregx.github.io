@@ -24,7 +24,7 @@ order: 2
 
 #### Conferences 
 **Xin, Y. G.**, Dudley, R. (2026). Partner effects on referential expression production in autistic
-adults [Poster]. CORE Project Workshop at ESSLLI 2026, Prague, Czech Republic.
+adults [[Poster]](/assets/202608_perepaa_poster.pdf). CORE Project Workshop at ESSLLI 2026, Prague, Czech Republic.
 
 **Xin, Y. G.** (2026). Partner effects on referential expression production in autistic adults [Talk].
 Southern California Undergraduate Linguistics Conference, Los Angeles, CA, United States
@@ -37,7 +37,6 @@ Southern California Undergraduate Linguistics Conference, Los Angeles, CA, Unite
 
 ### Fellowships, Awards, and Honors 
 - Outstanding Graduate in Linguistics, UCSD (2026) 
-- Student Support Fellowship, UCI (2026), $32,000 
 - Warren Cowgill Fellowship, LSA Linguistics Institute (2025), $2,500 
 - Summer Undergraduate Research Scholarship for Arts, Humanities, and Social Sciences, UCSD (2025), $6,500
 - Bronze Award, International Linguistics Olympiad (2021) 

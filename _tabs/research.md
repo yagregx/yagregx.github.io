@@ -14,7 +14,7 @@ While broadly defined as "the ability to reason other's mental states", what the
 ##### ... and Autism  
 A lot of times, autism is considered a communicative disorder. A lot of times, this is described as autistic people struggling with pragmatics. A lot of times, this is said to be due to a lack of theory of mind. Yet these are strong assumptions that may or may not be true. What defines theory of mind or pragmatic performance? Which autistic groups — or subgroups — are we talking about? How much theory of mind does pragmatics actually involve? Do autistic people really struggle with pragmatics? Do they really struggle with theory of mind? In my research, I hope to revisit some of these existing assumptions about pragmatics in autism. 
 
-- My undergraduate thesis centers on if and how differences in information processing between autistic and neurotypical adults influence their choices in referential expression production. I have presented this several times, *and you'll be able to find a poster here eventually.*
+- My undergraduate thesis centers on if and how differences in information processing between autistic and neurotypical adults influence their choices in referential expression production. [Here](/assets/202608_perepaa_poster.pdf)'s what it currently looks like. 
 
 ![img-description](assets/dep.png){: width="270" height="130" }
 _how I like to think about the case of pragmatics (and communication in general) in autistic people; for a more detailed proposal, check [here](/assets/COGSCI_2025_poster.pdf)_
