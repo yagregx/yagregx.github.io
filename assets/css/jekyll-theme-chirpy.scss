@@ -14,19 +14,19 @@
 
 /* Body */
 html[data-mode="light"] body {
-  background-color: #fff7fb;
+  background-color: #fffdf7;
   color: #2a2a2a;
 }
 
 /* Sidebar */
 html[data-mode="light"] #sidebar {
-  background-color: #fdeaf3;
+  background-color: #fdf9ea;
 }
 
 /* Cards / panels */
 html[data-mode="light"] .card {
   background-color: #ffffff;
-  border-color: #f3d6e4;
+  border-color: #f3e9d6;
 }
 
 /* ======================================= */
@@ -34,11 +34,11 @@ html[data-mode="light"] .card {
 /* ======================================= */
 
 html[data-mode="light"] a {
-  color: #e75480;
+  color: #e79e54;
 }
 
 html[data-mode="light"] a:hover {
-  color: #c7436e;
+  color: #c75d43;
 }
 
 /* ======================================= */
@@ -46,8 +46,8 @@ html[data-mode="light"] a:hover {
 /* ======================================= */
 
 html[data-mode="light"] .topbar {
-  background-color: #fff7fb;
-  border-bottom: 1px solid #f3d6e4;
+  background-color: #fffcf7;
+  border-bottom: 1px solid #f3e5d6;
 }
 
 html[data-mode="light"] .topbar .site-title {
@@ -59,17 +59,17 @@ html[data-mode="light"] .topbar .site-title {
 /* ======================================= */
 
 html[data-mode="light"] footer {
-  background-color: #fff7fb;
-  border-top: 1px solid #f3d6e4;
+  background-color: #fffdf7;
+  border-top: 1px solid #f3e8d6;
   color: #2a2a2a;
 }
 
 html[data-mode="light"] footer a {
-  color: #e75480;
+  color: #e7bb54;
 }
 
 html[data-mode="light"] footer a:hover {
-  color: #c7436e;
+  color: #c7a843;
 }
 
 /* ======================================= */
@@ -78,7 +78,7 @@ html[data-mode="light"] footer a:hover {
 
 /* Selection */
 html[data-mode="light"] ::selection {
-  background: #f8cfe0;
+  background: #f3f8cf;
 }
 
 /* ======================================= */

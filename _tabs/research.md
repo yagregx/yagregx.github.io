@@ -5,28 +5,17 @@ icon: fas fa-book
 order: 1
 ---
 
-### Theory of Mind and Pragmatics 
-While broadly defined as "the ability to reason other's mental states", what theory of mind actually involves and how it's involved in language remains complicated (well at least I think it's complicated). I am very interested in the breakdown of theory of mind, how it's developed, and how language/communication involves different mental states. 
+### Mental State and Pragmatic Reasoning 
 
-- Stay tuned for some exciting stuff? 
+##### One Example: Theory of Mind and Autism Pragmatics 
 
+A lot of times, autism is considered a communicative disorder. A lot of times, this is described as autistic people struggling with pragmatics. A lot of times, this is said to be due to a lack of theory of mind. Yet these are strong assumptions that may or may not be true. What defines theory of mind or pragmatic performance? Which autistic groups — or subgroups — are we talking about? How much theory of mind does pragmatics actually involve? Do autistic people really struggle with pragmatics? Do they really struggle with theory of mind? In my research, I hope to revisit some of these existing assumptions about pragmatics in autism.
 
-##### ... and Autism  
-A lot of times, autism is considered a communicative disorder. A lot of times, this is described as autistic people struggling with pragmatics. A lot of times, this is said to be due to a lack of theory of mind. Yet these are strong assumptions that may or may not be true. What defines theory of mind or pragmatic performance? Which autistic groups — or subgroups — are we talking about? How much theory of mind does pragmatics actually involve? Do autistic people really struggle with pragmatics? Do they really struggle with theory of mind? In my research, I hope to revisit some of these existing assumptions about pragmatics in autism. 
+- My undergraduate thesis centers on if and how differences in information processing between autistic and neurotypical adults influence their choices in referential expression production. [Here](/assets/202608_perepaa_poster.pdf){:target="_blank"}'s what it currently looks like.
+- I have also worked on a proposal thinking about the case of pragmatics (and communication in general) in autistic people focusing on the differences in experiences rather than theory of mind. This work was done with [Dezhi Luo](https://ihzedoul.com/){:target="_blank"}. 
 
-- My undergraduate thesis centers on if and how differences in information processing between autistic and neurotypical adults influence their choices in referential expression production. [Here](/assets/202608_perepaa_poster.pdf)'s what it currently looks like. 
+### Mental State and Mental State Language 
 
-![img-description](assets/dep.png){: width="270" height="130" }
-_how I like to think about the case of pragmatics (and communication in general) in autistic people; for a more detailed proposal, check [here](/assets/COGSCI_2025_poster.pdf)_
+While broadly defined as "the ability to reason other's mental states", what theory of mind actually entails and how it's involved in language remains complicated (well at least I think it's complicated). I am very interested in the breakdown of theory of mind, how it's developed, and how language/communication and mental states interact with each other. 
 
-### Thought, Consciousness, and how that languages 
-
-It always amazes me how every single person *thinks* and *feels* differently — from sensory processing to phenomenological processes, there is a wide range of introspective experiences that differs in people yet hard to talk about. How do "mental imageries" and "inner speech" connect to each other? How to measure them? And more importantly, how do these  connect to language planning/production? I think it would be fascinating to look at how individuals experience *thinking* differently, and how this kind of "thought" influences language. 
-
-- For example, I am interested in whether linguistic processing are involved in musical pitch perception, and waht other factors in language and music experience are relevant. 
-
-<!-- ### Bilingualism (and dealing with bilingual data!) 
-
-As a bilingual speaker, I’m interested in how bilinguals navigate language choice in context — particularly the cognitive and contextual factors that trigger code-switching. While working with bilingual corpora, I also noticed how many NLP tools have limitations when applied to bilingual or code-switched data. This inspired me to start exploring how current machine learning tools can be adapted or improved to better handle the complexities of bilingual language use. 
-
-- Such as POS tagging for code-switched text.  -->
+- Such as attitude verbs! 

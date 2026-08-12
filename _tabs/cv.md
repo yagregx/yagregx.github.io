@@ -43,9 +43,12 @@ Southern California Undergraduate Linguistics Conference, Los Angeles, CA, Unite
 - National Team (Top 8), China Linguistics Olympiad (2021) 
 - Silver Award, 18th in Asia, Asia-Pacific Linguistics Olympiad (2021)
 
+### Languages 
+- English: Native. 
+- Mandarin Chinese: Native. 
+- Cantonese: Heritage (Receptive bilingual; limited productive speech).
+- Spanish: Intermediate (Research use: participant instructions, corpus analysis).
+- Japanese: Beginner. 
+
 ### Skills 
-**Languages**: English (Native), Mandarin Chinese (Native), Cantonese (Conversational), Spanish (Research), Japanese (Beginner)
-
-**Programming**: R, Matlab, Python, PsychoPy, Java, Javascript 
-
-**Tools**: Praat, ELAN 
+Python, R, JavaScript, LaTeX, MATLAB, Java
