@@ -23,10 +23,10 @@ order: 2
 ### Publications and Presentations 
 
 #### Conferences 
-**Xin, Y. G.**, Dudley, R. (2026). Partner effects on referential expression production in autistic
-adults [[Poster]](/assets/202608_perepaa_poster.pdf). CORE Project Workshop at ESSLLI 2026, Prague, Czech Republic.
+**Xin, Y. G.**, Dudley, R. (2026). *Partner effects on referential expression production in autistic
+adults* [[Poster]](/assets/202608_perepaa_poster.pdf). CORE Project Workshop at ESSLLI 2026, Prague, Czech Republic.
 
-**Xin, Y. G.** (2026). Partner effects on referential expression production in autistic adults [Talk].
+**Xin, Y. G.** (2026). *Partner effects on referential expression production in autistic adults* [Talk].
 Southern California Undergraduate Linguistics Conference, Los Angeles, CA, United States
 
 **Xin, Y. G.**, Luo, D. (2025). *An Experience-First Approach to Autism Pragmatics* [[Poster]](/assets/COGSCI_2025_poster.pdf). COGSCI 2025, San Francisco, CA, United States. [Abstract](https://escholarship.org/uc/item/93k5t04h)
