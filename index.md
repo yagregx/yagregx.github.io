@@ -3,9 +3,9 @@ title: About
 layout: page
 # Index page
 ---
-Hello! I’m Yage ([/jakɤ/]({% link _posts/2025-08-31-On the matter of names, part 1.md %}), or "yah-kuh" where the "k" is unaspirated) and I'm an incoming PhD student in Language Science at UC Irvine, starting Fall 2026. I recently graduated from UC San Diego double majoring in Linguistics and Cognitive Science (with a minor in Music). 
+Hello! I’m Yage (/jakɤ/, or "yah-kuh" where the "k" is unaspirated) and I'm a first-year PhD student in Language Science at UC Irvine. I recently finished my undergraduate studies at UC San Diego, double majoring in Linguistics and Cognitive Science (with a minor in Music). 
 
-I want to believe that we can't fully understand language and cognition unless we understand the language and minds in different groups across various situations. Broadly speaking, my [research interest](/research/) centers around pragmatics and theory of mind. This includes how theory of mind (and other cognitive devices) is/isn't involved in pragmatic reasoning, as well as its development and breakdown in language. I first became interested in this area thinking about communciation in autism, and now I want to approach this big topic using various methods from different aspects. 
+I believe that we can't fully understand language and cognition unless we understand the language and minds in different groups across various situations. I first became interested in pragmatics and processing thinking about communication in autism, in relation to theory-of-mind or mental state reasoning. Now, my [research interest](/research/) includes whether and how theory-of-mind reasoning is involved in pragmatics, its traces in language, and the link between language and other cognitive processes. I am interested in bothe experimental and computational approaches. 
 
 Outside of academics, I am passionate about music and [art](https://www.instagram.com/mobigreus/), as well as reading and writing. 
 
