@@ -37,6 +37,7 @@ Southern California Undergraduate Linguistics Conference, Los Angeles, CA, Unite
 
 ### Fellowships, Awards, and Honors 
 - Outstanding Graduate in Linguistics, UCSD (2026) 
+- Student Support Fellowship, UC Irvine (2025)
 - Warren Cowgill Fellowship, LSA Linguistics Institute (2025), $2,500 
 - Summer Undergraduate Research Scholarship for Arts, Humanities, and Social Sciences, UCSD (2025), $6,500
 - Bronze Award, International Linguistics Olympiad (2021) 
@@ -51,4 +52,4 @@ Southern California Undergraduate Linguistics Conference, Los Angeles, CA, Unite
 - Japanese: Beginner. 
 
 ### Skills 
-Python, R, JavaScript, LaTeX, MATLAB, Java
+Python, R, JavaScript, LaTeX, Java
